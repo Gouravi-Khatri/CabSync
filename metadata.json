@@ -1,0 +1,7 @@
+{
+  "name": "CabAggregator",
+  "description": "A smart ride aggregator that compares fares across Uber, Rapido, and Namma Yatri using AI to simulate real-time pricing logic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
